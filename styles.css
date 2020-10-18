@@ -106,6 +106,10 @@ img.iconeF{
   padding: 2px 5px;
 }
 
+.sidebar-item:hover{
+  background-color: #3A3B3C;
+}
+
 .sidebar-divisa{
   background-color: #18191b;
   display: flex;
